@@ -1,0 +1,82 @@
+C:\Users\Andrey Hernández\Documents\1. Ingenieria en Informática\Estructuras de Archivos\Diccionario de Datos\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.Principal.resources
+C:\Users\Andrey Hernández\Documents\1. Ingenieria en Informática\Estructuras de Archivos\Diccionario de Datos\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.Properties.Resources.resources
+C:\Users\Andrey Hernández\Documents\1. Ingenieria en Informática\Estructuras de Archivos\Diccionario de Datos\Diccionario de Datos\obj\Debug\Diccionario de Datos.csproj.GenerateResource.Cache
+C:\Users\Andrey Hernández\Documents\1. Ingenieria en Informática\Estructuras de Archivos\Diccionario de Datos\Diccionario de Datos\bin\Debug\Diccionario de Datos.exe.config
+C:\Users\Andrey Hernández\Documents\1. Ingenieria en Informática\Estructuras de Archivos\Diccionario de Datos\Diccionario de Datos\bin\Debug\Diccionario de Datos.exe
+C:\Users\Andrey Hernández\Documents\1. Ingenieria en Informática\Estructuras de Archivos\Diccionario de Datos\Diccionario de Datos\bin\Debug\Diccionario de Datos.pdb
+C:\Users\Andrey Hernández\Documents\1. Ingenieria en Informática\Estructuras de Archivos\Diccionario de Datos\Diccionario de Datos\obj\Debug\Diccionario de Datos.exe
+C:\Users\Andrey Hernández\Documents\1. Ingenieria en Informática\Estructuras de Archivos\Diccionario de Datos\Diccionario de Datos\obj\Debug\Diccionario de Datos.pdb
+C:\Users\Andrey Hernández\Documents\1. Ingenieria en Informática\Estructuras de Archivos\Diccionario de Datos\Diccionario de Datos\obj\Debug\Diccionario de Datos.csprojResolveAssemblyReference.cache
+C:\Users\Andrey Hernandez\Documents\1. Ingenieria en Informatica\Respaldos\Estructuras-de-Archivos\Diccionario de Datos\bin\Debug\Diccionario de Datos.exe.config
+C:\Users\Andrey Hernandez\Documents\1. Ingenieria en Informatica\Respaldos\Estructuras-de-Archivos\Diccionario de Datos\bin\Debug\Diccionario de Datos.exe
+C:\Users\Andrey Hernandez\Documents\1. Ingenieria en Informatica\Respaldos\Estructuras-de-Archivos\Diccionario de Datos\bin\Debug\Diccionario de Datos.pdb
+C:\Users\Andrey Hernandez\Documents\1. Ingenieria en Informatica\Respaldos\Estructuras-de-Archivos\Diccionario de Datos\obj\Debug\Diccionario de Datos.csprojResolveAssemblyReference.cache
+C:\Users\Andrey Hernandez\Documents\1. Ingenieria en Informatica\Respaldos\Estructuras-de-Archivos\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.Archivo.resources
+C:\Users\Andrey Hernandez\Documents\1. Ingenieria en Informatica\Respaldos\Estructuras-de-Archivos\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.Principal.resources
+C:\Users\Andrey Hernandez\Documents\1. Ingenieria en Informatica\Respaldos\Estructuras-de-Archivos\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.Properties.Resources.resources
+C:\Users\Andrey Hernandez\Documents\1. Ingenieria en Informatica\Respaldos\Estructuras-de-Archivos\Diccionario de Datos\obj\Debug\Diccionario de Datos.csproj.GenerateResource.Cache
+C:\Users\Andrey Hernandez\Documents\1. Ingenieria en Informatica\Respaldos\Estructuras-de-Archivos\Diccionario de Datos\obj\Debug\Diccionario de Datos.exe
+C:\Users\Andrey Hernandez\Documents\1. Ingenieria en Informatica\Respaldos\Estructuras-de-Archivos\Diccionario de Datos\obj\Debug\Diccionario de Datos.pdb
+C:\Users\Andrey Hernandez\Documents\1. Ingenieria en Informatica\Estructuras-de-Archivos\Diccionario de Datos\bin\Debug\Diccionario de Datos.exe.config
+C:\Users\Andrey Hernandez\Documents\1. Ingenieria en Informatica\Estructuras-de-Archivos\Diccionario de Datos\bin\Debug\Diccionario de Datos.exe
+C:\Users\Andrey Hernandez\Documents\1. Ingenieria en Informatica\Estructuras-de-Archivos\Diccionario de Datos\bin\Debug\Diccionario de Datos.pdb
+C:\Users\Andrey Hernandez\Documents\1. Ingenieria en Informatica\Estructuras-de-Archivos\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.Archivo.resources
+C:\Users\Andrey Hernandez\Documents\1. Ingenieria en Informatica\Estructuras-de-Archivos\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.EliminaAtributo.resources
+C:\Users\Andrey Hernandez\Documents\1. Ingenieria en Informatica\Estructuras-de-Archivos\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.ModificaEntidad.resources
+C:\Users\Andrey Hernandez\Documents\1. Ingenieria en Informatica\Estructuras-de-Archivos\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.Principal.resources
+C:\Users\Andrey Hernandez\Documents\1. Ingenieria en Informatica\Estructuras-de-Archivos\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.Properties.Resources.resources
+C:\Users\Andrey Hernandez\Documents\1. Ingenieria en Informatica\Estructuras-de-Archivos\Diccionario de Datos\obj\Debug\Diccionario de Datos.csproj.GenerateResource.Cache
+C:\Users\Andrey Hernandez\Documents\1. Ingenieria en Informatica\Estructuras-de-Archivos\Diccionario de Datos\obj\Debug\Diccionario de Datos.exe
+C:\Users\Andrey Hernandez\Documents\1. Ingenieria en Informatica\Estructuras-de-Archivos\Diccionario de Datos\obj\Debug\Diccionario de Datos.pdb
+C:\Users\Andrey Hernandez\Documents\1. Ingenieria en Informatica\Estructuras-de-Archivos\Diccionario de Datos\obj\Debug\Diccionario de Datos.csprojResolveAssemblyReference.cache
+C:\Users\Andrey Hernandez\Documents\1. Ingenieria en Informatica\Estructuras-de-Archivos\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.EliminaRegistro.resources
+C:\Users\Andrey Hernandez\Documents\1. Ingenieria en Informatica\Estructuras-de-Archivos\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.ModificaAtributo.resources
+C:\Users\Andrey Hernandez\Documents\1. Ingenieria en Informatica\Estructuras-de-Archivos\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.ModificaRegistro.resources
+F:\6to Semestre\3. Estructuras de Datos Avanzados\_AYUDA\EstructurasDeArchivos-master\Diccionario de Datos\bin\Debug\Diccionario de Datos.exe.config
+F:\6to Semestre\3. Estructuras de Datos Avanzados\_AYUDA\EstructurasDeArchivos-master\Diccionario de Datos\bin\Debug\Diccionario de Datos.exe
+F:\6to Semestre\3. Estructuras de Datos Avanzados\_AYUDA\EstructurasDeArchivos-master\Diccionario de Datos\bin\Debug\Diccionario de Datos.pdb
+F:\6to Semestre\3. Estructuras de Datos Avanzados\_AYUDA\EstructurasDeArchivos-master\Diccionario de Datos\obj\Debug\Diccionario de Datos.csprojAssemblyReference.cache
+F:\6to Semestre\3. Estructuras de Datos Avanzados\_AYUDA\EstructurasDeArchivos-master\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.Archivo.resources
+F:\6to Semestre\3. Estructuras de Datos Avanzados\_AYUDA\EstructurasDeArchivos-master\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.EliminaAtributo.resources
+F:\6to Semestre\3. Estructuras de Datos Avanzados\_AYUDA\EstructurasDeArchivos-master\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.EliminaRegistro.resources
+F:\6to Semestre\3. Estructuras de Datos Avanzados\_AYUDA\EstructurasDeArchivos-master\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.ModificaAtributo.resources
+F:\6to Semestre\3. Estructuras de Datos Avanzados\_AYUDA\EstructurasDeArchivos-master\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.ModificaEntidad.resources
+F:\6to Semestre\3. Estructuras de Datos Avanzados\_AYUDA\EstructurasDeArchivos-master\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.ModificaRegistro.resources
+F:\6to Semestre\3. Estructuras de Datos Avanzados\_AYUDA\EstructurasDeArchivos-master\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.Principal.resources
+F:\6to Semestre\3. Estructuras de Datos Avanzados\_AYUDA\EstructurasDeArchivos-master\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.Properties.Resources.resources
+F:\6to Semestre\3. Estructuras de Datos Avanzados\_AYUDA\EstructurasDeArchivos-master\Diccionario de Datos\obj\Debug\Diccionario de Datos.csproj.GenerateResource.cache
+F:\6to Semestre\3. Estructuras de Datos Avanzados\_AYUDA\EstructurasDeArchivos-master\Diccionario de Datos\obj\Debug\Diccionario de Datos.csproj.CoreCompileInputs.cache
+F:\6to Semestre\3. Estructuras de Datos Avanzados\_AYUDA\EstructurasDeArchivos-master\Diccionario de Datos\obj\Debug\Diccionario de Datos.exe
+F:\6to Semestre\3. Estructuras de Datos Avanzados\_AYUDA\EstructurasDeArchivos-master\Diccionario de Datos\obj\Debug\Diccionario de Datos.pdb
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Hash\Diccionario de Datos\bin\Debug\Diccionario de Datos.exe.config
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Hash\Diccionario de Datos\bin\Debug\Diccionario de Datos.exe
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Hash\Diccionario de Datos\bin\Debug\Diccionario de Datos.pdb
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Hash\Diccionario de Datos\obj\Debug\Diccionario de Datos.csprojAssemblyReference.cache
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Hash\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.Archivo.resources
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Hash\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.EliminaAtributo.resources
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Hash\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.EliminaRegistro.resources
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Hash\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.ModificaAtributo.resources
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Hash\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.ModificaEntidad.resources
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Hash\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.ModificaRegistro.resources
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Hash\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.Principal.resources
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Hash\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.Properties.Resources.resources
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Hash\Diccionario de Datos\obj\Debug\Diccionario de Datos.csproj.GenerateResource.cache
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Hash\Diccionario de Datos\obj\Debug\Diccionario de Datos.csproj.CoreCompileInputs.cache
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Hash\Diccionario de Datos\obj\Debug\Diccionario de Datos.exe
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Hash\Diccionario de Datos\obj\Debug\Diccionario de Datos.pdb
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Diccionario de Datos\obj\Debug\Diccionario de Datos.csprojAssemblyReference.cache
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.Archivo.resources
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.EliminaAtributo.resources
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.EliminaRegistro.resources
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.ModificaAtributo.resources
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.ModificaEntidad.resources
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.ModificaRegistro.resources
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.Principal.resources
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Diccionario de Datos\obj\Debug\Diccionario_de_Datos.Properties.Resources.resources
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Diccionario de Datos\obj\Debug\Diccionario de Datos.csproj.GenerateResource.cache
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Diccionario de Datos\obj\Debug\Diccionario de Datos.csproj.CoreCompileInputs.cache
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Diccionario de Datos\obj\Debug\Diccionario de Datos.exe
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Diccionario de Datos\obj\Debug\Diccionario de Datos.pdb
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Diccionario de Datos\bin\Debug\Diccionario de Datos.exe.config
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Diccionario de Datos\bin\Debug\Diccionario de Datos.exe
+F:\6to Semestre\3. Estructuras de Datos Avanzados\TITULO\HASH\Diccionario de Datos\bin\Debug\Diccionario de Datos.pdb
